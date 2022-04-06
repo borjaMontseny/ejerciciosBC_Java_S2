@@ -8,7 +8,7 @@ public class Ejercicio1 {
     int variable2 = 20;
 
     int resultadoSuma = variable1 + variable2; // La variable es el resultado de la operación
-    System.out.println("La suma da " + resultadoSuma); // Aquí se imprime por consola dicho resultado
+    System.out.println("La suma da " + resultadoSuma); // Aquí se imprime por consola dicho resultado.
 
     int resultadoResta = variable1 - variable2;
     System.out.println("La resta da " + resultadoResta);
